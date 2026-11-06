@@ -1,0 +1,10 @@
+[Unit]
+Description=quan 交易运行（每交易日 14:30）
+
+[Timer]
+OnCalendar=Mon-Fri 14:30:00
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,17 @@
+{
+  "active": {
+    "zjzh": "000000000000000000",
+    "name": "demo",
+    "sim": true,
+    "note": "复制为 state/account.json 后填入自己的模拟组合 zjzh"
+  },
+  "all": [
+    {
+      "zjzh": "000000000000000000",
+      "name": "demo",
+      "sim": true,
+      "initialCash": 1000000,
+      "positions": 0
+    }
+  ]
+}

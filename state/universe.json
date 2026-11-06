@@ -1,0 +1,11 @@
+{
+  "note": "日线 SMA 策略股票池。1 手金额必须 <= RISK.maxNotionalPerOrder (5000 元)。",
+  "codes": ["601398", "600028", "000001", "600036", "601088", "600030"],
+  "params": {
+    "short": 5,
+    "long": 20,
+    "band": 0.005,
+    "minBars": 30,
+    "maxChasePct": 0.05
+  }
+}

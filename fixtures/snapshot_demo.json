@@ -1,0 +1,21 @@
+{
+  "demo": {
+    "zjzh": "000000000000000000",
+    "balance": {
+      "ok": true,
+      "total": 1000000,
+      "cash": 1000000,
+      "marketValue": 0,
+      "frozen": 0,
+      "initial": 1000000
+    },
+    "positions": {
+      "ok": true,
+      "positions": []
+    },
+    "orders": {
+      "ok": true,
+      "orders": []
+    }
+  }
+}

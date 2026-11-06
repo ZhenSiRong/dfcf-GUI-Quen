@@ -1,0 +1,10 @@
+[Unit]
+Description=quan 登录态巡检（每交易日 09:00）
+
+[Timer]
+OnCalendar=Mon-Fri 09:00:00
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=quan 东方财富模拟盘 · 登录态巡检
+Documentation=file://%h/VM-Share/quan/README.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/VM-Share/quan
+ExecStart=%h/VM-Share/quan/scripts/doctor.sh
+TimeoutStartSec=5min

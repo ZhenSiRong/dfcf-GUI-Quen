@@ -1,0 +1,37 @@
+# 依赖
+node_modules/
+.venv/
+
+# 敏感：登录态与账户
+state/storage_state.json
+state/cookies.json
+state/account.json
+state/chrome-profile/
+state/pw-profile/
+state/rules/*.json
+state/rules/*.tmp
+
+# 真实账户快照 / POC 响应（含账号）
+fixtures/snapshot_real.json
+fixtures/balance.json
+fixtures/discover.json
+fixtures/hold.json
+fixtures/orders_valid.json
+fixtures/summary.json
+fixtures/probe_*.json
+
+# 运行产物
+logs/
+reports/
+data/
+
+# 内部交接（含合同号/账户余额）
+HANDOFF.md
+
+# 一次性探针（含本机账号路径）
+tools/_*
+tools/probe_*
+
+# 临时
+*.tmp
+*.log

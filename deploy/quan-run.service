@@ -1,0 +1,12 @@
+[Unit]
+Description=quan 东方财富模拟盘 · 交易运行
+Documentation=file://%h/VM-Share/quan/README.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/VM-Share/quan
+ExecStart=%h/VM-Share/quan/scripts/daily.sh --live --max-orders 2
+TimeoutStartSec=10min
+# 首次部署建议先改成不带 --live，确认日报无误后再启用真实下单
