@@ -8,11 +8,9 @@
 
 ## 演示
 
-> 录屏中红色圆环跟随鼠标，点击时在落点炸开红色涟漪。这段是 **dry-run 演示**，最后点「取消」，不会提交任何委托。
+> 录屏中红色圆环跟随鼠标，点击时在落点炸开红色涟漪。这段是 **dry-run 演示**，最后点「取消」，不会提交任何委托。GitHub 不支持在 README 内嵌 MP4，下面用 GIF 自动播放；完整画质点 GIF 或下方链接。
 
 [![点击落点演示](docs/demo.gif)](docs/demo.mp4)
-
-<video src="docs/demo.mp4" controls muted playsinline width="430"></video>
 
 [下载 / 全屏播放 MP4](docs/demo.mp4)
 
