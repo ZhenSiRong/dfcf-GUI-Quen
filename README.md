@@ -6,6 +6,18 @@
 
 ---
 
+## 演示
+
+> 录屏中红色圆环跟随鼠标，点击时在落点炸开红色涟漪。这段是 **dry-run 演示**，最后点「取消」，不会提交任何委托。
+
+[![点击落点演示](docs/demo.gif)](docs/demo.mp4)
+
+<video src="docs/demo.mp4" controls muted playsinline width="430"></video>
+
+[下载 / 全屏播放 MP4](docs/demo.mp4)
+
+---
+
 ## 1. 安全设计
 
 | 层 | 机制 |
