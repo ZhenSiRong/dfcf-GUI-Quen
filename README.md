@@ -12,7 +12,7 @@
 
 [![点击落点演示](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.gif)](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.mp4)
 
-[下载 / 全屏播放 MP4](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.mp4)
+[直接打开 GIF](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.gif) · [下载 / 全屏播放 MP4](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.mp4)
 
 ---
 
