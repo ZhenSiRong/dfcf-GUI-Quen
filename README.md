@@ -8,11 +8,11 @@
 
 ## 演示
 
-> 录屏中红色圆环跟随鼠标，点击时在落点炸开红色涟漪。这段是 **dry-run 演示**，最后点「取消」，不会提交任何委托。GitHub 不支持在 README 内嵌 MP4，下面用 GIF 自动播放；完整画质点 GIF 或下方链接。
+> 录屏中红色圆环跟随鼠标，点击时在落点炸开红色涟漪。这段是 **dry-run 演示**，最后点「取消」，不会提交任何委托。GitHub 不支持在 README 内嵌 MP4；另外 GitHub 原生相对路径会走 `raw.githubusercontent.com`，国内网络常加载失败，所以这里用 jsDelivr CDN 预览。完整画质点 GIF 或下方链接。
 
-[![点击落点演示](docs/demo.gif)](docs/demo.mp4)
+[![点击落点演示](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.gif)](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.mp4)
 
-[下载 / 全屏播放 MP4](docs/demo.mp4)
+[下载 / 全屏播放 MP4](https://gcore.jsdelivr.net/gh/ZhenSiRong/dfcf-GUI-Quen@main/docs/demo.mp4)
 
 ---
 
